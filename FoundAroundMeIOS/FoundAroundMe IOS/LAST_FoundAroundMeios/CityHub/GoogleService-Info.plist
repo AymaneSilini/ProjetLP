@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>173424709136-spfgraj8t4gcqh0ji0ubmkc7i1g5ccqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.173424709136-spfgraj8t4gcqh0ji0ubmkc7i1g5ccqh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>173424709136-kui6dvdcbgj6obqqlrt42ef667di439d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaqJftOgukmAhrj1p8QKVbRVx6G6V2-8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173424709136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CityHub.CityHub</string>
+	<key>PROJECT_ID</key>
+	<string>cityhubsmin38</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cityhubsmin38.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173424709136:ios:baf0a51b1a08857dda4495</string>
+	<key>DATABASE_URL</key>
+	<string>https://cityhubsmin38.firebaseio.com</string>
+</dict>
+</plist>

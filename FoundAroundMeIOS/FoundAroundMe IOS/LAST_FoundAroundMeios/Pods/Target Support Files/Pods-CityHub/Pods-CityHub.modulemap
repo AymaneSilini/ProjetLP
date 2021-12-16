@@ -1,0 +1,6 @@
+framework module Pods_CityHub {
+  umbrella header "Pods-CityHub-umbrella.h"
+
+  export *
+  module * { export * }
+}

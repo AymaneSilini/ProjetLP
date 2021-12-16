@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337186285697",
+    "project_id": "foundaroundme",
+    "storage_bucket": "foundaroundme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337186285697:android:5ec30d9ac759cb37208580",
+        "android_client_info": {
+          "package_name": "com.example.foundaroundme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337186285697-0plebur3q95r1efd9ped9dligan1kh04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNgud4M8dsP6TGs8a5kfq3Xo_AzOcQBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337186285697-0plebur3q95r1efd9ped9dligan1kh04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337186285697-326vm4hbkf6rs20d2u35kmpeobfomthe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "foundAroundMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
